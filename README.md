@@ -9,3 +9,6 @@
 
 reference
 Barabási, A., & Stanley, H. (1995). Fractal Concepts in Surface Growth. Cambridge: Cambridge University Press. doi:10.1017/CBO9780511599798
+
+_____
+course info : Crystal Growth - 2016 - Shahid Beheshti University, Tehran - Physics Department
